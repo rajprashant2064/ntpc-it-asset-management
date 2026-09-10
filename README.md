@@ -102,11 +102,6 @@ ntpc-it-asset-management/
 ### 🔍 Search Assets
 ![Search Assets](search_asset.png)
 
-### 📋 Asset Records
-![Asset Records](view_asset.png)
-
-### 🔍 Search Assets
-![Search Assets](screenshots/search_asset.png)
 
 ### 📋 Asset Records
 ![Asset Records](screenshots/view_asset.png)
