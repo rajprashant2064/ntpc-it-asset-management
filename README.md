@@ -88,3 +88,19 @@ ntpc-it-asset-management/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+## 📸 Screenshots
+
+### 🔐 Administrator Login
+![Administrator Login](screenshots/login.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### ➕ Add New Asset
+![Add New Asset](screenshots/add_asset.png)
+
+### 🔍 Search Assets
+![Search Assets](screenshots/search_asset.png)
+
+### 📋 Asset Records
+![Asset Records](screenshots/view_asset.png)
